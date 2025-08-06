@@ -25,4 +25,9 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-ednuri-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ednuri)
 
 ---
-*“Don’t forget to drink water, keep smiling, and keep coding.”*
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Don't+forget+to+drink+water!;Keep+smiling+%F0%9F%98%84;And+keep+coding!+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
